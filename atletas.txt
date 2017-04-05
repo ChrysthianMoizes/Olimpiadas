@@ -1,0 +1,11 @@
+Pedro	21	70,7	M	Italia	Italia	1
+Ana	22	60,9	F	Croacia	EUA	4
+Jorge	19	120,1	M	Brasil	Brasil	4
+Joao	28	85,6	M	EUA	EUA	7
+Maria	24	55,7	F	Russia	China	2
+Marcos	27	75,9	M	Brasil	Japao	5
+Joana	22	60,0	F	China	Escocia 7
+Iago	30	78,6	M	Franca	Franca	3
+Renan	26	88,1	M	Russia	Brasil	6
+Fuscao	20	80,2	M	Jamaica	Espanha	2
+Daniela	23	55,4	F	Espanha Chile	7
